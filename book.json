@@ -10,10 +10,13 @@
   ],
   "language": "es",
   "variables": {
-    "title": "__________",
+    "title": "Hola mundo SIGAD!",
     "authors": [
-      "_____________",
-      "________________"
+      "María Pilar Jiménez Calvo",
+      "Antonio Marín García",
+      "Ramiro Adiego Sevilla",
+      "Santiago Giménez Pérez",
+      "Miguel Álvarez Amada"
     ],
     "collaborators": [
       {
