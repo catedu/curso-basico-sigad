@@ -1,5 +1,3 @@
-# Summary
-
 * [Introducción](README.md)
 
 ## MÓDULO 1. SIGAD DIDÁCTICA
