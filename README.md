@@ -48,13 +48,14 @@ En el archivo `.github/workflows/gitbook-action.yml`, da nombre al libro que qui
 
 ### ¡Y ya estás listo para publicar! 📣 📡
 
-Cada vez que hagas push a la rama `master` volverá a generar los archivos estáticos en la rama gh-pages, quedando la versión web actualizada del libro publicada en la url https://<nombre-de-la-cuenta>.io/<nombre-del-repo> y las versiones en formato epub, pdf y mobi en las url https://github.com/<nombre-de-la-cuenta>/<nombre-del-repo>/raw/gh-pages/mybook/<nombre-del-libro-sin-extension>.<formato>
+Cada vez que hagas push a la rama `master` volverá a generar los archivos estáticos en la rama gh-pages, quedando la versión web actualizada del libro publicada en la url https://`<nombre-de-la-cuenta>`.io/`<nombre-del-repo>` y las versiones en formato epub, pdf y mobi en las url https://github.com/`<nombre-de-la-cuenta>`/`<nombre-del-repo>`/raw/gh-pages/mybook/`<nombre-del-libro-sin-extension>`.`<formato>`
     
-Por ejemplo, esta plantilla está disponible en formato web en https://catedu.github.io/curso-tipo/ y las versiones descargable quedan publicadas en las siguientes urls:
-* https://github.com/catedu/curso-tipo/raw/gh-pages/mybook/curso-tipo.epub
-* https://github.com/catedu/curso-tipo/raw/gh-pages/mybook/curso-tipo.mobi
-* https://github.com/catedu/curso-tipo/raw/gh-pages/mybook/curso-tipo.pdf
+Por ejemplo, esta plantilla está disponible en formato web en https://catedu.github.io/curso-basico-sigad/ y las versiones descargable quedan publicadas en las siguientes urls:
+* https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.epub
+* https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.mobi
+* https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.pdf
 
 ## ¡Atención!
 
 La generación de la versión actualizada tras cada push puede tardar hasta 15 minutos.
+`
