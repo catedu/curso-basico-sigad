@@ -5,8 +5,8 @@
 <blockquote>SIGAD DIDÁCTICA: [https://aplicaciones.aragon.es/sigaddweb](https://aplicaciones.aragon.es/sigaddweb)</blockquote> 	
 <blockquote>SIGAD ACADÉMICA: [https://servicios.aragon.es/sigad-academica](https://servicios.aragon.es/sigad-academica)	</blockquote>
 <p>Descargar los contenidos del curso</p>
-<li>
-  <ol>FORMATO [PDF](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.pdf)</ol>
-   <ol>FORMATO [EPUB](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.epub)</ol>
-   <ol>FORMATO [MOBI](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.mobi)</ol>
+<ol>
+  <li>FORMATO [PDF](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.pdf)</li>
+   <li>FORMATO [EPUB](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.epub)</li>
+   <li>FORMATO [MOBI](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.mobi)</li>
 </li>
