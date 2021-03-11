@@ -8,8 +8,8 @@ Las páginas donde se encuentra<br>
 <br>
 Descargar los contenidos del curso
 <br>
-    * FORMATO [PDF]: https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.pdf "PDF"
+    * FORMATO [PDF](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.pdf)
 <br>
-    * FORMATO [EPUB]: https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.epub "EPUB"
+    * FORMATO [EPUB](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.epub)
 <br>
-    * FORMATO [MOBI]: https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.mobi "MOBI"
+    * FORMATO [MOBI](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.mobi)
