@@ -1,7 +1,7 @@
 # ASESORAMIENTO SIGAD
 
-Coordinación y montaje:
-<ul>
+>**tip**
+><ul>
  <li>SERVICIOS CENTRALES <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">{{ book.authors[0] }} </span></li>
    <li>S.P. ZARAGOZA <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">{{ book.authors[1] }} y {{ book.authors[2] }} sigad.zaragoza@educa.aragon.es</span></li>
    <li>S.P. TERUEL <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">{{ book.authors[3] }} sigad.teruel@educa.aragon.es</span></li>
