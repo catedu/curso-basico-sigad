@@ -4,8 +4,8 @@ Este curso está dirigido a docentes que desconocen el uso de la plataforma SIGA
 
 Las páginas donde se encuentra  
   > **SIGAD DIDÁCTICA:**  <a href="https://aplicaciones.aragon.es/sigaddweb" target="_blank">https://aplicaciones.aragon.es/sigaddweb</a>  
-  > **SIGAD ACADÉMICA:**  <a href="https://aplicaciones.aragon.es/academica" target="_blank">https://aplicaciones.aragon.es/academica</a>
->    
+  > **SIGAD ACADÉMICA:**  <a href="https://servicios.aragon.es/sigad-academica" target="_blank">https://servicios.aragon.es/sigad-academica</a>  
+ >     
 Descargar los contenidos del curso
 * FORMATO [PDF](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.pdf)
 * FORMATO [EPUB](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.epub)
