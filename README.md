@@ -4,8 +4,8 @@
 > Este curso está dirigido a docentes que desconocen el uso de la plataforma SIGAD,  enfocado principalmente a sus tareas como profesores, tutores o jefes de Departamento.   
 
 Podrás acceder mediante las siguientes páginas   
-**SIGAD DIDÁCTICA:** <a href="https://aplicaciones.aragon.es/sigaddweb" target="_blank">https://aplicaciones.aragon.es/sigaddweb</a>   
-**SIGAD DIDÁCTICA:** <a href="https://aplicaciones.aragon.es/sigad-academica" target="_blank">https://aplicaciones.aragon.es/sigad-academica</a>
+  **SIGAD DIDÁCTICA:** <a href="https://aplicaciones.aragon.es/sigaddweb" target="_blank">https://aplicaciones.aragon.es/sigaddweb</a>   
+  **SIGAD DIDÁCTICA:** <a href="https://aplicaciones.aragon.es/sigad-academica" target="_blank">https://aplicaciones.aragon.es/sigad-academica</a>
 
 >**tip**   
 >Descargar los contenidos del curso
