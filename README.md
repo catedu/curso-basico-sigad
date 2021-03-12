@@ -11,8 +11,10 @@ Más tutoriales de SIGAD en <a href="https://educa.aragon.es/-/aplicacion-sigad"
 
 Descargar los contenidos del curso
 >**success**
->FORMATO [PDF](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.pdf)  
+>FORMATO [PDF](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.pdf)
+>
 >**success**
->FORMATO [EPUB](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.epub)   
+>FORMATO [EPUB](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.epub)
+>
 >**success**
 >FORMATO [MOBI](https://github.com/catedu/curso-basico-sigad/raw/gh-pages/mybook/curso-basico-sigad.mobi)
