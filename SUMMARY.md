@@ -1,16 +1,16 @@
-* [Introducción](profesor.md)
+* [Introducción](README.md)
 
 ## MÓDULO 1. SIGAD DIDÁCTICA
 
-* [COMO PROFESOR](didactica/README.md)
-* [COMO TUTOR](didactica/tutor.md)
-* [COMO J.D.](didactica/jd.md)
+* [PROFESOR](didactica/profesor.md)
+* [TUTOR](didactica/tutor.md)
+* [JEFE DPTO.](didactica/jd.md)
 
 ## MÓDULO 2. SIGAD ACADÉMICA
 
-* [COMO PROFESOR](academica/profesor.md)
-* [COMO TUTOR](academica/tutor.md)
-* [COMO J.D.](academica/jd.md)
+* [PROFESOR](academica/profesor.md)
+* [TUTOR](academica/tutor.md)
+* [JEFE DPTO.](academica/jd.md)
 
 ---
 
