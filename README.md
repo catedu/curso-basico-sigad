@@ -5,7 +5,7 @@
 
 Podrás acceder mediante las siguientes páginas   
   **SIGAD DIDÁCTICA:** <a href="https://aplicaciones.aragon.es/sigaddweb" target="_blank">https://aplicaciones.aragon.es/sigaddweb</a>   
-  **SIGAD DIDÁCTICA:** <a href="https://aplicaciones.aragon.es/sigad-academica" target="_blank">https://aplicaciones.aragon.es/sigad-academica</a>
+  **SIGAD ACADÉMICA:** <a href="https://aplicaciones.aragon.es/sigad-academica" target="_blank">https://aplicaciones.aragon.es/sigad-academica</a>
 
 >**tip**   
 >Descargar los contenidos del curso
