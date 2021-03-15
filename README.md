@@ -1,7 +1,7 @@
 ![logo SIGAD](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/SIGAD.png)   
 # !Hola SIGAD! 
 >**info**
-> Este curso está dirigido a docentes que desconocen el uso de la plataforma SIGAD,  enfocado principalmente a sus tareas como profesores, tutores o jefes de Departamento.   
+> Este curso está dirigido a docentes que desconocen el uso de la plataforma SIGAD,  enfocado principalmente a sus tareas como docentes, tutores o jefes de Departamento.   
 
 Podrás acceder mediante las siguientes páginas   
   **SIGAD DIDÁCTICA:** <a href="https://aplicaciones.aragon.es/sigaddweb" target="_blank">https://aplicaciones.aragon.es/sigaddweb</a>   
