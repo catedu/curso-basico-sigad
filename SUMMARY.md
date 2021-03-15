@@ -2,13 +2,13 @@
 
 ## MÓDULO 1. SIGAD DIDÁCTICA
 
-* [PROFESOR](didactica/profesor.md)
+* [DOCENTE](didactica/docente.md)
 * [TUTOR](didactica/tutor.md)
 * [JEFE DPTO.](didactica/jd.md)
 
 ## MÓDULO 2. SIGAD ACADÉMICA
 
-* [PROFESOR](academica/profesor.md)
+* [DOCENTE](academica/docente.md)
 * [TUTOR](academica/tutor.md)
 * [JEFE DPTO.](academica/jd.md)
 
