@@ -4,13 +4,13 @@
 
 * [DOCENTE](didactica/docente.md)
 * [TUTOR](didactica/tutor.md)
-* [JEFE DPTO.](didactica/jd.md)
+* [JEFE DEPARTAMENTO](didactica/jd.md)
 
 ## MÓDULO 2. SIGAD ACADÉMICA
 
 * [DOCENTE](academica/docente.md)
 * [TUTOR](academica/tutor.md)
-* [JEFE DPTO.](academica/jd.md)
+* [JEFE DEPARTAMENTO](academica/jd.md)
 
 ---
 
