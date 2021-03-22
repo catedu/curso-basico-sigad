@@ -1,6 +1,6 @@
 ![logo SIGAD](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/SIGAD.png)   
 # !Hola SIGAD! 
-## Elaborado en septiembre de 2021
+## Septiembre de 2021
 >**info**
 > Este curso está dirigido a docentes que desconocen el uso de la plataforma SIGAD. Esta enfocado, principalmente, a sus tareas como docentes, tutores o jefes de Departamento.   
 
