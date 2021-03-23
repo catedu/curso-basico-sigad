@@ -1,4 +1,4 @@
-# Operaciones básicas como tutor en Didáctica
+#Principales operaciones como tutor/a
 1. [Justificar faltas](justificar-faltas)
  
 ### [Justificar faltas](#justificar-faltas)  
