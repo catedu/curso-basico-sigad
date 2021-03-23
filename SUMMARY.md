@@ -2,8 +2,7 @@
 
 ## MÓDULO 1. SIGAD DIDÁCTICA
 
-* [DOCENTE]
-	* [Conexión/desconexión](didactica/doc_con_des.md)
+* [DOCENTE](didactica/docente.md)
 * [TUTOR](didactica/tutor.md)
 * [JEFE DE DEPARTAMENTO](didactica/jd.md)
 
