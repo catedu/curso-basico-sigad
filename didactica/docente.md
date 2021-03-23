@@ -1,6 +1,6 @@
 #Principales operaciones como docente
 
-1. [Iniciar sesión](iniciar-sesion#iniciar-sesion)  
+1. [Iniciar sesión](tutor.html#iniciar-sesion)  
 Pasar lista    
 Consultar datos de un alumno  
 Poner retrasos y faltas  
