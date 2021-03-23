@@ -1,7 +1,7 @@
 #Principales operaciones como tutor/a
-1. [Justificar faltas](justificar-faltas)
+1. [Justificar faltas](#justificar-faltas)
  
-### [Justificar faltas](#justificar-faltas)  
+### [Justificar faltas]{#justificar-faltas}  
 Paso 1  
 ![Justificar faltas 1](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/tutor/justificar_faltas/1.png)  
 Paso 2  

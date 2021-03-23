@@ -2,8 +2,8 @@
 # !Hola SIGAD! 
 ### Septiembre de 2021
 >**info**
-> Este curso está dirigido a docentes que desconocen el uso de la plataforma SIGAD y hemos contemplado las principales operaciones que desarrollarán en el Centro, ya sea como docentes, tutores o jefes de Departamento, 
-tanto en SIGAD Académica como Didáctica, dándole una vuelta al concepto de tutorial y adaptarlo a los procesos del día a dia.     
+> Este curso está dirigido a docentes que desconocen el uso de la plataforma SIGAD y hemos contemplado las principales operaciones que desarrollarán en el Centro, ya sea como docentes, tutores y/o jefes de Departamento, 
+tanto en SIGAD Académica como Didáctica, dándole una vuelta al concepto de tutorial y adaptarlo a los procesos cotidianos en el aula.     
 > Hay más maneras de efectuar las operaciones que aquí reflejamos, como podrás observar en los manuales e irás descubriendo con el tiempo, pero el objetivo del curso es ofrecer una guía mínima y completa.
 
 Podrás acceder mediante las siguientes páginas   
