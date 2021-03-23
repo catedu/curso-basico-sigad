@@ -1,6 +1,6 @@
 #Principales operaciones como docente
 
-1. [Iniciar sesión](tutor.html#iniciar-sesion)  
+1. [Iniciar sesión](docente.html#iniciar-sesion)  
 Pasar lista    
 Consultar datos de un alumno  
 Poner retrasos y faltas  
@@ -12,7 +12,7 @@ Calendario docente
 Notificaciones  
 Mensajería  
 
-[Iniciar sesión](#iniciar-sesion)  
+Iniciar sesión{#iniciar-sesion}  
 Para conectarte a SIGAD Didáctica, no necesitarás instalar ninguna aplicación, sólo acceder a través de cualquier navegador mediante la siguiente dirección <https://aplicaciones.aragon.es/sigaddweb>  
 Una vez hayas accedido a la página se debería mostrar una pantalla como la siguiente: 
 ![Loguear](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/abrir_cerrar/loguear.png)  
