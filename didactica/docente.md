@@ -12,7 +12,7 @@ Calendario docente
 Notificaciones  
 Mensajería  
 
-### Iniciar sesión <a>iniciar-sesion</a>
+### Iniciar sesión <a name="iniciar-sesion"></a>
 Para conectarte a SIGAD Didáctica, no necesitarás instalar ninguna aplicación, sólo acceder a través de cualquier navegador mediante la siguiente dirección <https://aplicaciones.aragon.es/sigaddweb>  
 Una vez hayas accedido a la página se debería mostrar una pantalla como la siguiente: 
 ![Loguear](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/abrir_cerrar/logueo.png)  
