@@ -10,7 +10,6 @@
 
 * [DOCENTE](academica/docente.md)
 * [TUTOR](academica/tutor.md)
-* [JEFE DE DEPARTAMENTO](academica/jd.md)
 
 ---
 
