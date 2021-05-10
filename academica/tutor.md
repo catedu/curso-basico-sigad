@@ -10,7 +10,7 @@ Como tutor del Grupo, podrás obtener informes que pueden resultar muy útiles c
 4.ALUM-Parte Incidencias
 5.EVAL-Boletín
 ![Informes 2](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/tutor/imprimir_informes/2.png)  
-En esta página es importante saber que es posible exportar el listado a otros formatos para su posterior utilización, por ejemplo, Excel, Calc,... 
+En este diálogo es importante saber que es posible exportar el listado a otros formatos para su posterior utilización con otras herramientas, por ejemplo, Excel (.xls), Calc(.xls), Word(.rtf), Writer(.rtf)...
 ![Informes 3](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/tutor/imprimir_informes/3.png)  
 [Inicio de la página](#inicio)
 
