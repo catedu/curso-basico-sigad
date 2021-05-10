@@ -4,7 +4,7 @@
 
 ###1. Principales informes como tutor{#inf}
 En esta sección, verás como puedes generar los informes como tutor del grupo. Ten en cuenta, que muchos de ellos directamente los puedes obtener como docente y por eso, se encuentran explicados en ese apartado.
-![Informes 1](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/tutor/imprimir_informes/1.png)
+![Informes 1](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/tutor/imprimir_informes/1.png)  
 Como tutor del Grupo, podrás obtener informes que pueden resultar muy útiles como  
 3. ABSEN-Partes Faltas Asistencia Alumno
 4. ALUM-Parte Incidencias
