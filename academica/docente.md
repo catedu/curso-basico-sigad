@@ -6,9 +6,9 @@
 ###1. Consulta de información relativa a los alumnosr{#cons}  
 ![Informes 1](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/docente/consultar_datos/1.png)  
 Como tutor del Grupo, podrás obtener informes que pueden resultar muy útiles como  
-3. ABSEN-Partes Faltas Asistencia Alumno
-4. ALUM-Parte Incidencias
-5. EVAL-Boletín
+3.ABSEN-Partes Faltas Asistencia Alumno
+4.ALUM-Parte Incidencias
+5.EVAL-Boletín
 ![Informes 2](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/docente/consultar_datos/2.png)  
 En esta página es importante saber que es posible exportar el listado a otros formatos para su posterior utilización, por ejemplo, Excel, Calc,... 
 ![Informes 3](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/docente/consultar_datos/3.png) 
