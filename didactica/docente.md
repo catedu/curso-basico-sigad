@@ -23,7 +23,7 @@ No olvides cerrar sesión cuando termines de trabajar, desde el menú superior.
 [Inicio de la página](#inicio)
 ###2. Pasar lista{#pas-lis} 
 Desde esta opción podremos poner retrasos, faltas o anotar que un alumno no ha realizado las tareas.  
-
+![Pasar lista](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/pasar_lista/pasar_lista.png)
 [Inicio de la página](#inicio)
 ###3. Pasar lista como docente de guardia{#pas-guar} 
 
