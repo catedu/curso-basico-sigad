@@ -10,3 +10,4 @@ Paso 3
 ![Justificar faltas 3](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/tutor/justificar_faltas/3.png)  
 Paso 4  
 ![Justificar faltas 4](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/tutor/justificar_faltas/4.png)  
+[Inicio de la página](#inicio)
