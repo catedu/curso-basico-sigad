@@ -31,8 +31,10 @@ Lo primero que deberemos hacer es seleccionar día y hora si es diferente a la q
 Desde esta opción podremos poner retrasos, faltas o anotar que un alumno no ha realizado las tareas como profesor de guardia.  
 En el punto anterior, hemos visto como realizar anotaciones de los alumnos:
 ![Pasar lista](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/pasar_lista/pasar_lista.png)  
-
+En el botón 4, puedes indicar que vas a insertar faltas como profesor de guardia.  
+A continuación, deberás buscar al profesor que falta.  
 ![Pasar lista](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/pasar_lista_guardia/1_pasar_lista_guardia.png)
+Finalmente, podrás pasar lista, de manera idéntica a la que lo harías con tus propios alumnos. Una vez concluido, podrás volver a trabajar con tu usuario pulsando 1.    
 ![Pasar lista](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/pasar_lista_guardia/2_pasar_lista_guardia.png)
 [Inicio de la página](#inicio)
 
