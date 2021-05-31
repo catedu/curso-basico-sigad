@@ -23,11 +23,15 @@ No olvides cerrar sesión cuando termines de trabajar, desde el menú superior.
 
 ###2. Pasar lista{#pas-lis} 
 Desde esta opción podremos poner retrasos, faltas o anotar que un alumno no ha realizado las tareas.  
-![Pasar lista](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/pasar_lista/pasar_lista.png)
+Lo primero que deberemos hacer es seleccionar día y hora si es diferente a la que se carga por defecto (2, 3 y 5). Posteriormente, seleccionarás qué deseas hacer: introducir retrasos, faltas o ausencia de deberes (6, 7, 8) y finalmente guardar(9). Ten en cuenta, que si necesitaras hacer cualquier modificación, lo realizarías de manera idéntica. Por ejemplo, transformar una falta en un retraso porque finalmente el alumno acude a clase, deberás desmarcar de hacer la selección, tal y como hemos visto, desmarcar la falta (7) y marcar el retraso (6), concluirás guardando (9).
+![Pasar lista](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/pasar_lista/pasar_lista.png)  
 [Inicio de la página](#inicio)
 
 ###3. Pasar lista como docente de guardia{#pas-guar} 
 Desde esta opción podremos poner retrasos, faltas o anotar que un alumno no ha realizado las tareas como profesor de guardia.  
+En el punto anterior, hemos visto como realizar anotaciones de los alumnos:
+![Pasar lista](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/pasar_lista/pasar_lista.png)  
+
 ![Pasar lista](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/pasar_lista_guardia/1_pasar_lista_guardia.png)
 ![Pasar lista](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/pasar_lista_guardia/2_pasar_lista_guardia.png)
 [Inicio de la página](#inicio)
