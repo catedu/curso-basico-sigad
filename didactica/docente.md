@@ -64,12 +64,13 @@ Finalmente, podrás pasar lista, de manera idéntica a la que lo harías con tus
 ###9. Poner parte{#poner-parte} 
 ![Poner parte](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/crear_parte/crear_parte.png) 
 [Inicio de la página](#inicio)  
-
 ###10. Consultar parte{#poner-parte} 
 ![Poner parte](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_parte/consultar_parte.png) 
 [Inicio de la página](#inicio)
 ###11. Calendario docente{#calendario} 
-![Consultar calendario docente](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/calendario_docente/calendario_docente.png) 
+![Consultar calendario docente](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/calendario_docente/1_calendario_docente.png) 
+![Consultar calendario docente](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/calendario_docente/2_calendario_docente.png) 
+![Consultar calendario docente](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/calendario_docente/3_calendario_docente.png) 
 [Inicio de la página](#inicio)  
 ###12. Mensajería{#mensajeria} 
 ![Consultar calendario docente](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/mensajeria/mensajeria.png) 
