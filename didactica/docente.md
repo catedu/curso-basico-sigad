@@ -5,9 +5,9 @@
 3. [Pasar lista: faltas, retrasos y deberes](#pas-lis)    
 4. [Pasar lista como docente de guardia](#pas-guar)    
 5. [Consultar datos de un alumno](#consultar-datos)
-6. [Consultar calificaciones de otras materias/generar boletín](#generar-boletin)  
-7. [Introducir calificaciones](#introducir-calificaciones)  
-8. [Consultar calificaciones introducidas](#consultar-calificaciones)  
+6. [Consultar calificaciones de otras materias/generar boletín de un alumno](#generar-boletin)  
+7. [Introducir calificaciones ](#introducir-calificaciones)  
+8. [Consultar calificaciones introducidas en otras evaluaciones de la materia](#consultar-calificaciones)  
 9. [Poner parte](#poner-parte)  
 10. [Consultar parte](#consultar_parte)  
 11. [Calendario docente](#calendario)  
@@ -23,7 +23,7 @@ No olvides cerrar sesión cuando termines de trabajar, desde el menú superior.
 [Inicio de la página](#inicio)
 
 ###2. Notificaciones{#notificaciones} 
-  
+![Notificaciones](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/notificaciones/notificaciones.png)    
 [Inicio de la página](#inicio)
 
 ###3. Pasar lista{#pas-lis} 
@@ -44,27 +44,33 @@ Finalmente, podrás pasar lista, de manera idéntica a la que lo harías con tus
 [Inicio de la página](#inicio)
 
 ###5. Consultar datos de un alumno{#consultar-datos} 
-
+![Consultar datos de un alumno](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_datos/1_listado_alumnos.png)  
+![Consultar datos de un alumno](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_datos/2_listado_alumnos.png)  
+![Consultar datos de un alumno](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_datos/3_listado_alumnos.png)  
+![Consultar datos de un alumno](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_datos/4_listado_alumnos.png)  
+![Consultar datos de un alumno](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_datos/5_listado_alumnos.png)  
+![Consultar datos de un alumno](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_datos/6_listado_alumnos.png)  
+![Consultar datos de un alumno](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_datos/7_listado_alumnos.png)  
 [Inicio de la página](#inicio)
-###6. Consultar calificaciones de otras materias/generar boletín{#generar-boletin}
-
+###6. Consultar calificaciones de otras materias/generar boletín de un alumno {#generar-boletin}
+![Consultar datos de un alumno](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_datos/7_listado_alumnos.png)  
 [Inicio de la página](#inicio)
 ###7. Introducir calificaciones{#introducir-calificaciones} 
-
+![Introducir calificaciones](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/evaluar_materias/evaluar_materias.png) 
 [Inicio de la página](#inicio)
-###8. Consultar calificaciones introducidas{#consultar-calificacione}  
-
+###8. Consultar calificaciones introducidas en otras evaluaciones  de la materia{#consultar-calificaciones}
+![Consultar calificaciones](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_notas/consultar_notas.png) 
 [Inicio de la página](#inicio)
 ###9. Poner parte{#poner-parte} 
-
+![Poner parte](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/crear_parte/crear_parte.png) 
 [Inicio de la página](#inicio)  
 
 ###10. Consultar parte{#poner-parte} 
-
+![Poner parte](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_parte/consultar_parte.png) 
 [Inicio de la página](#inicio)
 ###11. Calendario docente{#calendario} 
-
+![Consultar calendario docente](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/calendario_docente/calendario_docente.png) 
 [Inicio de la página](#inicio)  
 ###12. Mensajería{#mensajeria} 
-
+![Consultar calendario docente](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/mensajeria/mensajeria.png) 
 [Inicio de la página](#inicio)  
