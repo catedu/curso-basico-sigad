@@ -4,7 +4,7 @@
 3. [Evaluar Competencias](#evaluar-competencias)  
 4. [Valorar Competencias Bilingüismo](#valorar-bilinguismo)  
  
-### Justificar faltas{#justificar-faltas}  
+###1. Justificar faltas{#justificar-faltas}  
 Paso 1  
 ![Justificar faltas 1](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/tutor/justificar_faltas/1_justificar_faltas.png)  
 Paso 2  
@@ -15,16 +15,12 @@ Paso 4
 ![Justificar faltas 4](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/tutor/justificar_faltas/4_justificar_faltas.png)  
 [Inicio de la página](#inicio)
 
-### Insertar Objetivos y Consejo Orientador{#rellenar-objetivos} 
+###2. Insertar Objetivos y Consejo Orientador{#rellenar-objetivos} 
 ![Justificar faltas 1](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/tutor/objetivos_consejo/1_objetivos_consejo.png)  
 ![Justificar faltas 1](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/tutor/objetivos_consejo/2_objetivos_consejo.png)  
 ![Justificar faltas 1](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/tutor/objetivos_consejo/3_objetivos_consejo.png)  
 [Inicio de la página](#inicio)
 
-### Evaluar Competencias{#evaluar-competencias} 
+###3. Evaluar Competencias{#evaluar-competencias} 
 ![Evaluar competencias](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/tutor/evaluar_competencias/evaluar_competencias.png)  
-[Inicio de la página](#inicio)
-
-### Valorar Competencias Bilingüismo(#valorar-bilinguismo)
-
 [Inicio de la página](#inicio)
