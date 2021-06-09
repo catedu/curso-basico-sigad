@@ -1,4 +1,4 @@
-#Principales operaciones como tutor/a {#inicio} en SIGAD Didáctica
+#Principales operaciones como tutor/a {#inicio} en Didáctica
 1. [Justificar faltas](#justificar-faltas)  
 2. [Insertar Objetivos y Consejo Orientador](#rellenar-objetivos)   
 3. [Evaluar Competencias](#evaluar-competencias)  
