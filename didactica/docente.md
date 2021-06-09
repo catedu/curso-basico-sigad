@@ -1,4 +1,4 @@
-#Principales operaciones como docente {#inicio} en Didáctica
+#Operaciones como docente {#inicio} en Didáctica
 
 1. [Iniciar y desconectar sesión](#ini-ses)
 2. [Notificaciones](#notificaciones)    

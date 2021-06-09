@@ -1,4 +1,4 @@
-#Principales operaciones como Jefe de Departamento {#inicio} en Didáctica 
+#Operaciones como Jefe de Departamento {#inicio} en Didáctica 
   
 1. [Introducir calificaciones de materias pendientes](#introducir-calificaciones)  
 2. [Consultar calificaciones introducidas de las materias pendientes](#consultar-calificaciones)  
