@@ -3,9 +3,10 @@
 1. [Iniciar y desconectar sesión](#ini-ses)  
 2. [Pasar lista: faltas, retrasos y deberes](#pas-lis)    
 3. [Pasar lista como docente de guardia](#pas-guar)    
-4. [Consultar datos de un alumno](#consultar-datos)  
+4. [Consultar datos de un alumno](#consultar-datos)
+5. [Consultar calificaciones de otras materias/generar boletín](#generar-boletin)  
 6. [Introducir calificaciones](#introducir-calificaciones)  
-7. [Consultar calificaciones introducidas](#introducir-calificaciones)  
+7. [Consultar calificaciones introducidas](#consultar-calificaciones)  
 8. [Poner parte](#poner-parte)  
 9. [¿Consultar parte?]()  
 10. [Calendario docente]()  
@@ -38,18 +39,18 @@ Finalmente, podrás pasar lista, de manera idéntica a la que lo harías con tus
 ![Pasar lista](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/pasar_lista_guardia/2_pasar_lista_guardia.png)
 [Inicio de la página](#inicio)
 
-###. Pasar lista como docente de guardia{#pas-guar} 
+###4. Consultar datos de un alumno{#consultar-datos} 
 
 [Inicio de la página](#inicio)
-###. Pasar lista como docente de guardia{#pas-guar} 
+###5. Consultar calificaciones de otras materias/generar boletín{#generar-boletin}
 
 [Inicio de la página](#inicio)
-###. Pasar lista como docente de guardia{#pas-guar} 
+###6. Introducir calificaciones{#introducir-calificaciones} 
 
 [Inicio de la página](#inicio)
-###. Pasar lista como docente de guardia{#pas-guar} 
+###7. Consultar calificaciones introducidas{#consultar-calificacione}  
 
 [Inicio de la página](#inicio)
-###. Pasar lista como docente de guardia{#pas-guar} 
+###8. Poner parte{#poner-parte} 
 
 [Inicio de la página](#inicio)
