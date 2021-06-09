@@ -1,16 +1,16 @@
 #Principales operaciones como docente {#inicio} en SIGAD Didáctica
 
-1. [Iniciar y desconectar sesión](#ini-ses)  
-2. [Pasar lista: faltas, retrasos y deberes](#pas-lis)    
-3. [Pasar lista como docente de guardia](#pas-guar)    
-4. [Consultar datos de un alumno](#consultar-datos)
-5. [Consultar calificaciones de otras materias/generar boletín](#generar-boletin)  
-6. [Introducir calificaciones](#introducir-calificaciones)  
-7. [Consultar calificaciones introducidas](#consultar-calificaciones)  
-8. [Poner parte](#poner-parte)  
-9. [¿Consultar parte?]()  
-10. [Calendario docente]()  
-11. [Notificaciones]()  
+1. [Iniciar y desconectar sesión](#ini-ses)
+2. [Notificaciones](#notificaciones)    
+3. [Pasar lista: faltas, retrasos y deberes](#pas-lis)    
+4. [Pasar lista como docente de guardia](#pas-guar)    
+5. [Consultar datos de un alumno](#consultar-datos)
+6. [Consultar calificaciones de otras materias/generar boletín](#generar-boletin)  
+7. [Introducir calificaciones](#introducir-calificaciones)  
+8. [Consultar calificaciones introducidas](#consultar-calificaciones)  
+9. [Poner parte](#poner-parte)  
+10. [Consultar parte](#consultar_parte)  
+11. [Calendario docente](#calendario)  
 12. [Mensajería](#mensajeria)  
 
 ###1. Iniciar y desconectar sesión{#ini-ses}
@@ -22,13 +22,17 @@ No olvides cerrar sesión cuando termines de trabajar, desde el menú superior.
 ![Cerrar](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/abrir_cerrar/cierre_sesion.png)
 [Inicio de la página](#inicio)
 
-###2. Pasar lista{#pas-lis} 
+###2. Notificaciones{#notificaciones} 
+  
+[Inicio de la página](#inicio)
+
+###3. Pasar lista{#pas-lis} 
 Desde esta opción podremos poner retrasos, faltas o anotar que un alumno no ha realizado las tareas.  
 Lo primero que deberemos hacer es seleccionar día y hora si es diferente a la que se carga por defecto (2, 3 y 5). Posteriormente, seleccionarás qué deseas hacer: introducir retrasos, faltas o ausencia de deberes (6, 7, 8) y finalmente guardar(9). Ten en cuenta, que si necesitaras hacer cualquier modificación, lo realizarías de manera idéntica. Por ejemplo, transformar una falta en un retraso porque finalmente el alumno acude a clase, deberás desmarcar de hacer la selección, tal y como hemos visto, desmarcar la falta (7) y marcar el retraso (6), concluirás guardando (9).
 ![Pasar lista](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/pasar_lista/pasar_lista.png)  
 [Inicio de la página](#inicio)
 
-###3. Pasar lista como docente de guardia{#pas-guar} 
+###4. Pasar lista como docente de guardia{#pas-guar} 
 Desde esta opción podremos poner retrasos, faltas o anotar que un alumno no ha realizado las tareas como profesor de guardia.  
 En el punto anterior, hemos visto como realizar anotaciones de los alumnos:
 ![Pasar lista](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/pasar_lista/pasar_lista.png)  
@@ -39,18 +43,28 @@ Finalmente, podrás pasar lista, de manera idéntica a la que lo harías con tus
 ![Pasar lista](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/pasar_lista_guardia/2_pasar_lista_guardia.png)
 [Inicio de la página](#inicio)
 
-###4. Consultar datos de un alumno{#consultar-datos} 
+###5. Consultar datos de un alumno{#consultar-datos} 
 
 [Inicio de la página](#inicio)
-###5. Consultar calificaciones de otras materias/generar boletín{#generar-boletin}
+###6. Consultar calificaciones de otras materias/generar boletín{#generar-boletin}
 
 [Inicio de la página](#inicio)
-###6. Introducir calificaciones{#introducir-calificaciones} 
+###7. Introducir calificaciones{#introducir-calificaciones} 
 
 [Inicio de la página](#inicio)
-###7. Consultar calificaciones introducidas{#consultar-calificacione}  
+###8. Consultar calificaciones introducidas{#consultar-calificacione}  
 
 [Inicio de la página](#inicio)
-###8. Poner parte{#poner-parte} 
+###9. Poner parte{#poner-parte} 
+
+[Inicio de la página](#inicio)  
+
+###10. Consultar parte{#poner-parte} 
 
 [Inicio de la página](#inicio)
+###11. Calendario docente{#calendario} 
+
+[Inicio de la página](#inicio)  
+###12. Mensajería{#mensajeria} 
+
+[Inicio de la página](#inicio)  
