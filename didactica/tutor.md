@@ -2,7 +2,6 @@
 1. [Justificar faltas](#justificar-faltas)  
 2. [Insertar Objetivos y Consejo Orientador](#rellenar-objetivos)   
 3. [Evaluar Competencias](#evaluar-competencias)  
-4. [Valorar Competencias Bilingüismo](#valorar-bilinguismo)  
  
 ###1. Justificar faltas{#justificar-faltas}  
 Paso 1  
