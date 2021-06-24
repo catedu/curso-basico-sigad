@@ -5,7 +5,7 @@
 ###1. Principales informes como docente{#inf}  
 Como docente, podrás generar directamente información relativa a tus alumnos y posteriormente, te podrá servir para llevar un control impreso o digital de los mismos, para ello, podrás proceder como se indica en la capturas que verás a continuación.  
 ![Informes 1](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/docente/imprimir_informes/1.png)  
-A continuación citamos algunos de los informes que te pueden resultar especialmente útiles.
+A continuación citamos algunos de los informes que te pueden resultar especialmente útiles.  
 3.ALUM-Horario de grupo  
 4.ALUM-Lista de Alumnos con direcciones y teléfonos  
 5.ALUM-Listado de alumnos con foto  

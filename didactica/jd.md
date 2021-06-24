@@ -8,6 +8,6 @@ Como Jefe/a de Departamento podremos evaluar materias pendientes. Para ello habr
 ![Introducir calificaciones](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/jdepartamento/evaluar_pendientes/evaluar_pendientes.png) 
 [Inicio de la página](#inicio)
 ###2. Consultar calificaciones introducidas en otras evaluaciones de las materias pendientes{#consultar-calificaciones}
-Si deseamos consultar notas introducidas de pendientes en anteriores evaluaciones, deberemos escoger Evaluación y posteriormente "Consultar pendientes", filtrando por los campos correspondientes.
+Si deseamos consultar notas introducidas de pendientes en anteriores evaluaciones, deberemos escoger Evaluación y posteriormente "Consultar pendientes", filtrando por los campos correspondientes.  
 ![Consultar calificaciones](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/jdepartamento/consultar_pendientes/consultar_pendientes.png) 
 [Inicio de la página](#inicio)
