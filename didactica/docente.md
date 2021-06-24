@@ -86,7 +86,6 @@ El Calendario docente refleja información del grupo en concreto que hayamos sel
 ![Consultar calendario docente](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/calendario_docente/1_calendario_docente.png) 
 Para notificar alguna información, como una fecha de un examen, con seleccionar "Crear evento" ya podremos insertarlo.
 ![Consultar calendario docente](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/calendario_docente/2_calendario_docente.png) 
-
 ![Consultar calendario docente](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/calendario_docente/3_calendario_docente.png) 
 [Inicio de la página](#inicio)  
 ###12. Mensajería{#mensajeria}  
