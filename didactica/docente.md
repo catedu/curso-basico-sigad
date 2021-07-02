@@ -60,9 +60,9 @@ En la primera pestaña podremos consultar sus Datos
 ![Consultar datos de un alumno](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_datos/3_listado_alumnos.png)  
 Continuamos con la matrícula  
 ![Consultar datos de un alumno](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_datos/4_listado_alumnos.png)  
-Las faltas de todos los materias  
+Las faltas de todas los días y materias  
 ![Consultar datos de un alumno](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_datos/5_listado_alumnos.png)  
-Las faltas de todos los incidencias  
+Todas las incidencias  
 ![Consultar datos de un alumno](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_datos/6_listado_alumnos.png)  
 Por último la Evaluación, desde donde se podrán consultar notas, generar el boletín (2), ver competencias (3) y datos de los Objetivos y Consejo Orientador.  
 ![Consultar datos de un alumno](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/didactica/docente/consultar_datos/7_listado_alumnos.png)  
