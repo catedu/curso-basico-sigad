@@ -1,7 +1,7 @@
 #Principales operaciones como tutor {#inicio} en SIGAD Académica
 
-1. [Principales informes como tutor](#inf)
-2. [Introducir varios días completos de faltas de manera simultanea, , pudiendo justificarlas en el mismo proceso](#fal)
+1. [Principales informes como tutor](#inf)  
+2. [Introducir varios días consecutivos de faltas, pudiendo justificarlas en el mismo proceso](#fal)
 
 ###1. Principales informes como tutor{#inf}  
 En esta sección, verás como puedes generar los informes como tutor del grupo. Ten en cuenta, que muchos de ellos directamente los puedes obtener como docente y por eso, se encuentran explicados en ese apartado.
@@ -15,8 +15,8 @@ En este diálogo es importante saber que es posible exportar el listado a otros 
 ![Informes 3](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/tutor/imprimir_informes/3.png)  
 [Inicio de la página](#inicio)
 
-###2. Introducir varios días completos de faltas de manera simultanea, pudiendo justificarlas en el mismo proceso]{#fal}  
-Desde SIGAD Académica podemos insertar las faltas de varios días y justificarlas en un sólo paso. Este proceso puede resultar muy útil para insertar y justificar faltas derivadas de Covid.
+###2. Introducir varios días consecutivos de faltas, pudiendo justificarlas en el mismo proceso{#fal}  
+Desde SIGAD Académica podemos insertar las faltas de varios días consecutivos y justificarlas en un sólo paso. Este proceso puede resultar muy útil para insertar y justificar faltas derivadas de Covid.
 Primero hay que seleccionar la ficha Faltas del menú Alumnos.  
 ![Faltas 1](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/tutor/insertar_faltas/1.png)   
 A continuación procederemos a seleccionar al alumno/a del que queremos insertar las faltas.  
