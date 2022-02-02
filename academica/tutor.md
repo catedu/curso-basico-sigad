@@ -1,7 +1,7 @@
 #Principales operaciones como tutor {#inicio} en SIGAD Académica
 
 1. [Principales informes como tutor](#inf)  
-2. [Introducir varios días consecutivos de faltas, pudiendo justificarlas en el mismo proceso](#fal)
+2. [Introducir días consecutivos de faltas, pudiendo justificarlas en el mismo proceso](#fal)
 
 ###1. Principales informes como tutor{#inf}  
 En esta sección, verás como puedes generar los informes como tutor del grupo. Ten en cuenta, que muchos de ellos directamente los puedes obtener como docente y por eso, se encuentran explicados en ese apartado.
@@ -15,11 +15,11 @@ En este diálogo es importante saber que es posible exportar el listado a otros 
 ![Informes 3](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/tutor/imprimir_informes/3.png)  
 [Inicio de la página](#inicio)
 
-###2. Introducir varios días consecutivos de faltas, pudiendo justificarlas en el mismo proceso{#fal}  
-Desde SIGAD Académica podemos insertar las faltas de varios días consecutivos y justificarlas en un sólo paso. Este proceso puede resultar muy útil para insertar y justificar faltas derivadas de Covid.
+###2. Introducir días consecutivos de faltas, pudiendo justificarlas en el mismo proceso{#fal}  
+Desde SIGAD Académica podemos insertar las faltas de varios días consecutivos y justificarlas en un sólo paso. Este proceso puede resultar muy útil para insertar y justificar faltas derivadas de Covid, por ejemplo.
 Primero hay que seleccionar la ficha Faltas del menú Alumnos.  
 ![Faltas 1](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/tutor/insertar_faltas/1.png)   
-A continuación procederemos a seleccionar al alumno/a del que queremos insertar las faltas.  
+A continuación, procederemos a seleccionar al alumno/a del que queremos insertar las faltas.  
 ![Faltas 2](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/tutor/insertar_faltas/2.png)  
 Finalmente, procederemos a añadir las faltas, tal y como se muestra en la imagen.  
 ![Faltas 3](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/tutor/insertar_faltas/3.png)  
