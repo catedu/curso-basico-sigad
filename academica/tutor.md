@@ -27,6 +27,5 @@ Finalmente, procederemos a añadir las faltas, tal y como se muestra en la image
 [Inicio de la página](#inicio)
 
 ###3. Poner notas de cualquier materia del grupo donde es tutor o tutora{#notas}  
-Desde SIGAD Académica el tutor o tutora puede poner las notas de su grupo. Para ello, hay que acceder a Grupos, a continuación seleccionar Evaluaciones y desplegar el buscador, rellenando los campos de la materia y evaluación, posteriormente se filtrará por el botón de embudo y nos aparecerá todo el alumnado en la parrilla. Una vez completadas todas las calificaciones, no olvidéis darle al botón Guardar.   
-![Notas 1](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/tutor/poner_notas/1.png)    
+Desde SIGAD Académica el tutor o tutora puede poner las notas de su grupo. Para ello, hay que acceder a Grupos, a continuación seleccionar Evaluaciones y desplegar el buscador, rellenando los campos de la materia y evaluación, posteriormente se filtrará por el botón de embudo y nos aparecerá todo el alumnado en la parrilla. Una vez completadas todas las calificaciones, no olvidéis darle al botón Guardar.      
 [Inicio de la página](#inicio)  
