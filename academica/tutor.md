@@ -1,7 +1,8 @@
 #Principales operaciones como tutor {#inicio} en SIGAD Académica
 
 1. [Principales informes como tutor](#inf)  
-2. [Introducir días consecutivos de faltas, pudiéndolas justificar de manera simultánea](#fal)
+2. [Introducir días consecutivos de faltas, pudiéndolas justificar de manera simultánea](#fal)  
+3. [Poner notas de cualquier materia del grupo donde es tutor o tutor](#notas)
   
 
 ###1. Principales informes como tutor{#inf}  
@@ -25,3 +26,8 @@ A continuación, procederemos a seleccionar al alumno/a del que queremos inserta
 Finalmente, procederemos a añadir las faltas, tal y como se muestra en la imagen.  
 ![Faltas 3](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/tutor/insertar_faltas/3.png)  
 [Inicio de la página](#inicio)
+
+###3. Poner notas de cualquier materia del grupo donde es tutor o tutora{#notas}   
+Desde SIGAD Académica el tutor o tutora puede poner las notas de su grupo. Para ello, hay que acceder a Grupos, a continuación seleccionar Evaluaciones y desplegar el buscador, rellenando los campos de la materia y evaluación, posteriormente se filtrará por el botón de embudo y nos aparecerá todo el alumnado en la parrilla. Una vez completadas todas las calificaciones, no olvidéis darle al botón Guardar. 
+![Notas](https://raw.githubusercontent.com/catedu/curso-basico-sigad/master/img/academica/tutor/insertar_faltas/3.png)       
+[Inicio de la página](#inicio)  
